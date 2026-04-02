@@ -1,0 +1,8 @@
+"Transaction ID","Sender Account ID","Receiver Account ID","Transaction Amount","Transaction Type",Timestamp,"Transaction Status","Fraud Flag","Geolocation (Latitude/Longitude)","Device Used","Network Slice ID","Latency (ms)","Slice Bandwidth (Mbps)","PIN Code",Entry_Date,Error_Type
+TXN5194651812,ACC39081,ACC11992,394.76,Deposit,"01/17/2025 10:13:00",Failed,FALSE,"34.0522 N, -118.2437 W",Desktop,Slice2,16,146,7035,04/01/2026,Omission
+TXN4304334477,ACC14700,ACC95607,662.74,Transfer,"01/17/2025 10:23:00",Failed,FALSE,"48.8566 N, -74.006 W",Mobile,Slice3,16,188,9286,04/01/2026,Omission
+TXN1806416150,ACC93504,ACC75996,721.39,Deposit,"01/17/2025 10:24:00",Failed,FALSE,"40.7128 N, 2.3522 W",Desktop,Slice2,3,82,7758,04/01/2026,Omission
+TXN4170698928,ACC51174,ACC92864,1427.83,Deposit,"01/17/2025 10:16:00",Failed,TRUE,"51.5074 N, 139.6917 W",Mobile,Slice1,4,145,3996,04/01/2026,Omission
+TXN3114507871,ACC81093,ACC72767,384.21,Transfer,"01/17/2025 10:03:00",Failed,FALSE,"35.6895 N, 2.3522 W",Mobile,Slice3,12,248,3607,04/01/2026,Omission
+TXN6552482713,ACC17345,ACC68442,1184.61,Deposit,"01/17/2025 10:34:00",Success,TRUE,"40.7128 N, -118.2437 W",Desktop,Slice2,20,157,5352,04/01/2026,Omission
+TXN5912948830,ACC23367,ACC56353,995.33,Transfer,"01/17/2025 10:05:00",Failed,TRUE,"51.5074 N, 0.1278 W",Mobile,Slice1,12,110,8039,04/01/2026,Omission
